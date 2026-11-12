@@ -52,5 +52,5 @@ window.PROFILE = {
   photo: "assets/naoto_top (1).webp",
 
   // 8) 背景色（#RRGGBB）。文字色は自動で読みやすい色になります
-  theme: { background: "#9CC9BC" }
+  theme: { background: "#1F3A5F" }
 };
